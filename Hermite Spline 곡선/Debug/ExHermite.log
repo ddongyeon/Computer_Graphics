@@ -1,0 +1,19 @@
+﻿  gmath.cpp
+  main.cpp
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(93,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(98,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(171,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(171,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(171,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(202,23): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(203,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(203,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(204,23): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(205,22): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(256,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(262,33): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(264,17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(268,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\win10\Google 드라이브(dkdlehddus0317@mme.dongguk.edu)\자료\3학년 1학기\자율사물가상현실\2차과제\ExHermite[Template] (1)\main.cpp(269,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'freeglut.lib' 파일을 열 수 없습니다.
